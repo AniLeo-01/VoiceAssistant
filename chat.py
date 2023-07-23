@@ -82,7 +82,7 @@ def display_conversation(history):
 
 def run_streamlit():
     # Initialize Streamlit app with a title
-    st.title(" Voice Assistant 🧙")
+    st.title(" Voice Assistant Using Langchain 🎙🔗")
    
     # Load embeddings and the DeepLake database
     db = load_deeplake(embedding_function=OpenAIEmbeddings())
