@@ -1,1 +1,1 @@
-# Voice Assistance using Langchain and LLM
+# Voice Assistant using Langchain and LLM
