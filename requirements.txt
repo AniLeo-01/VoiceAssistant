@@ -1,0 +1,11 @@
+langchain==0.0.208
+deeplake==3.6.12
+openai==0.27.8
+tiktoken==0.4.0
+streamlit==1.23.1
+beautifulsoup4==4.11.2
+streamlit-chat
+audio-recorder-streamlit
+elevenlabs==0.2.21
+python-dotenv
+openai-whisper
