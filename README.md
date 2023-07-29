@@ -21,7 +21,7 @@ OPENAI_API_KEY=<openai_api_key>
 DEEPLAKE_DATASET_PATH=<datalake_path>
 ```
 
-#### Load documentation data
+#### Scrape and Load documentation data
 
 ```
 python dataloader.py
